@@ -1,0 +1,35 @@
+{
+    "icons": [ "awesome-fonts" ],
+    "colors": [
+        {
+            "red":      "#903439",
+            "pink":     "#FFB6C1",
+            "black":    "#000000",
+            "white":    "#ffffff",
+            "green":    "#5cac98",
+            "magenta":  "#9e5c74"
+        }
+    ],
+    "defaults": {
+        "fg": "black",
+        "bg": "pink",
+        "warning": {
+            "fg": "green",
+            "bg": "white"
+        },
+        "critical": {
+            "fg": "white",
+            "bg": "magenta"
+        }
+    },
+    "cycle": [
+        {
+            "fg": "black",
+            "bg": "pink"
+        },
+        {
+            "fg": "white",
+            "bg": "red"
+        }
+    ]
+}
